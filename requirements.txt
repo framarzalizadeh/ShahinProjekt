@@ -40,7 +40,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
 mkl==2025.0.1
-mkl_fft @ file:///C:/Users/Framarz%20Alizadeh/Downloads/mkl_fft-1.3.11-cp312-cp312-win_amd64.whl#sha256=c5a3192f2bb42b6cbded8e3b24325715f67953b75d38cb67f4dbb93a2663a8f0
+mkl_fft==1.3.11
 multidict==6.1.0
 numpy==1.26.4
 orjson==3.10.12
